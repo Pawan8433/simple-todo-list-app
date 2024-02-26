@@ -11,8 +11,14 @@ This is a simple web application that allows users to create and manage their to
 
 ## Technologies Used
 - HTML5
+  ![html](https://github.com/Pawan8433/todoupdatedui/assets/106168429/2d18c5be-fe93-4f7f-852e-3b22ed8b9815)
+
 - CSS3
+  ![css](https://github.com/Pawan8433/todoupdatedui/assets/106168429/e022b134-7f78-4775-8c79-8df2c5fc9e88)
+
 - JavaScript
+  ![js](https://github.com/Pawan8433/todoupdatedui/assets/106168429/0de4b2fd-9541-4a17-895e-b5aab42523ba)
+
 
 ## Installation
 1. Clone the repository to your local machine using `git clone`.
