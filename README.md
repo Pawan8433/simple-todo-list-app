@@ -24,7 +24,9 @@ This is a simple web application that allows users to create and manage their to
 2. Hover over a task and click on the "x" icon to delete it from the list.
 
 ## Screenshots
-[Screenshot 1]![image](https://github.com/Pawan8433/todoupdatedui/assets/106168429/cf6df275-999b-4503-9b0b-7e187f2d00f2)
+[Screenshot ]
+
+![image](https://github.com/Pawan8433/todoupdatedui/assets/106168429/cf6df275-999b-4503-9b0b-7e187f2d00f2)
 
  
 
