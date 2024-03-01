@@ -30,17 +30,10 @@ This is a simple web application that allows users to create and manage their to
 2. Hover over a task and click on the "x" icon to delete it from the list.
 
 ## Screenshots
-[Screenshot ]
-![image](https://github.com/Pawan8433/todoupdatedui/assets/106168429/cf6df275-999b-4503-9b0b-7e187f2d00f2)
+ ![image](https://github.com/Pawan8433/todoupdatedui/assets/106168429/cf6df275-999b-4503-9b0b-7e187f2d00f2)
 
 ## Video Demo
-
-
 https://github.com/Pawan8433/simple-todo-list-app/assets/106168429/1639d554-b7d7-4111-81e4-2ca1300ac3e3
-
-
-
- 
 
 ## Credits
 - The Google Fonts API for providing the "Anton" font used in the application.
